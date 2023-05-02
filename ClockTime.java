@@ -3,7 +3,7 @@
  * Course:  CSCI-241 - Computer Science I
  * Section: 002
  * Assignment: 9
- * 
+ * Revised by Tyler Uttech who is attempting to use visualCode since I already have it installed
  * Project/Class Description
  * This class consists of constructors, getters, seters, and varios methods 
  * that are made to preform specific tasks in order to simplify the 
